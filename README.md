@@ -4,4 +4,4 @@
 
 # LANGUAGES
 
-[C#](https://learn.microsoft.com/pt-br/dotnet/csharp/): The C# language was the first language I studied, and for a long time, it was my main language. I created cheats in CS:GO-type games, among other things. I have a total of 7 years of experience with C#, but because I used this language a lot, it became repetitive, boring and tiresome for me. So, lately, I haven't coded C#.
+- [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/): The C# language was the first language I studied, and for a long time, it was my main language. I created cheats in CS:GO-type games, among other things. I have a total of 7 years of experience with C#, but because I used this language a lot, it became repetitive, boring and tiresome for me. So, lately, I haven't coded C#.
