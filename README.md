@@ -6,7 +6,7 @@
 
 - [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/): C# was the first language I studied, and for a long time, it was my main language. I created cheats in CS:GO-type games, among other things. I have a total of 7 years of experience with C#, but because I used this language a lot, it became repetitive, boring and tiresome for me. So, lately, I haven't coded C#.
 
-- [Lua](https://www.lua.org/docs.html): Lua & LuaU are the languages I have used most recently, mainly for creating scripts for Roblox and cheats for Gamesense. I have a total of 4 years of experience with Lua/Luau. During this time, I developed paid scripts as well as various scripts for different purposes. Lua was a language I really enjoyed learning because I found its possibilities and ease of use very interesting.
+- [Lua](https://www.lua.org/docs.html): Lua & LuaU are the languages I have used most recently, mainly for creating scripts for Roblox and scripts for Gamesense. I have a total of 4 years of experience with Lua/Luau. During this time, I developed paid scripts as well as various scripts for different purposes. Lua was a language I really enjoyed learning because I found its possibilities and ease of use very interesting.
 
 - [Python](https://www.python.org/about/gettingstarted/): I used Python to facilitate my projects in C# in certain situations, like dump and other related things.
 
