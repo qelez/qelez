@@ -1,6 +1,6 @@
 # ABOUT ME
 
-- Hello, I'm a developer who works independently with several programming languages. Over the past few years, I haven't been very active in programming projects, but I am still deeply passionate about technology and related topics. I have been involved in this field for nearly 10 years, continuously learning and exploring new tools and techniques.
+- Hello, I'm a developer who works independently with several programming languages. Over the past few years, I haven't been very active in programming projects, but I am still deeply passionate about technology and related topics. I have been involved in this field for nearly 10 years.
 
 # LANGUAGES
 
